@@ -1,0 +1,16 @@
+{
+  "name": "crud-demo",
+  "version": "1.0.0",
+  "description": "这是一个通过node实现增删改查的例子",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "crud",
+    "node",
+    "demo"
+  ],
+  "author": "wangbo (bowang1119@163.com)",
+  "license": "ISC"
+}
